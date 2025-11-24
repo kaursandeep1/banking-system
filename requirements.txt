@@ -1,0 +1,2 @@
+# No external dependencies for basic version
+# Optional: add pytest for enhanced testing

@@ -1,0 +1,3 @@
+2025-11-24 21:56:39,925 - WARNING - SECURITY - Event: REGISTRATION, Customer: 9bb57564891ebed4, Details: New customer registered
+2025-11-24 21:56:56,110 - WARNING - SECURITY - Event: LOGIN, Customer: 9bb57564891ebed4, Details: Successful login
+2025-11-24 21:57:10,153 - INFO - TRANSACTION - Type: ACCOUNT_CREATION, Account: ACC80280D692D53, Amount: $1000.00, Status: SUCCESS
